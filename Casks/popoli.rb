@@ -1,6 +1,6 @@
 cask "popoli" do
-  version "0.9.9"
-  sha256 "42ad64188511a656e4bbe2856298c71852e3ee18eeb04afc02c165b32886de2e"
+  version "0.10.0"
+  sha256 "8ad20a6233e0fede66c44324d8367fd338002cde35042156bdd749f01116a50d"
 
   url "https://github.com/kogungor/popoli/releases/download/v#{version}/Popoli-#{version}.dmg"
   name "Popoli"
